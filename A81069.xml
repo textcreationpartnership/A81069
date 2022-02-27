@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Potērion glykypikron. London's bitter-sweet-cup of tears, for her late visitation: and joy, for the King's return With a complement (in the close) to France. By Iohn Crouch.</title>
+            <author>Crouch, John, fl. 1660-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81069</idno>
+            <idno type="STC">Wing C7304A</idno>
+            <idno type="STC">ESTC R231707</idno>
+            <idno type="EEBO-CITATION">99897059</idno>
+            <idno type="PROQUEST">99897059</idno>
+            <idno type="VID">133232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133232)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2465:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Potērion glykypikron. London's bitter-sweet-cup of tears, for her late visitation: and joy, for the King's return With a complement (in the close) to France. By Iohn Crouch.</title>
+                  <author>Crouch, John, fl. 1660-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Palmer, at the Crown in Westminster-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First two words of title in Greek characters.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133232:1"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>LONDON'S Bitter-Sweet-CUP OF TEARS, For Her late VISITATION: AND JOY, FOR The KING's Return.</p>
+            <p>With a Complement (in the cloſe) to FRANCE.</p>
+            <q>
+               <hi>Non nos ampullas,</hi> —</q>
+            <p>By <hi>Iohn Crouch.</hi>
+            </p>
+            <p>LONDON, Printed for THOMAS PALMER, at the <hi>Crown</hi> in <hi>Weſtminſter</hi>-Hall. 1666.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:133232:2"/>
+            <pb n="3" facs="tcp:133232:2"/>
+            <head>The POEM</head>
+            <lg>
+               <l>AFter a wanton <hi>Century</hi> of <hi>Peace,</hi>
+               </l>
+               <l>Which all things but <hi>Obedience</hi> did increaſe;</l>
+               <l>Feuds and Rebellions midſt <hi>three Kingdomes</hi> ſpread,</l>
+               <l>Whoſe <hi>Helliſh zeal</hi> took off both <hi>Crown</hi> and <hi>Head;</hi>
+               </l>
+               <l>Foul <hi>dregs</hi> contracted by <hi>Inteſtine Wars,</hi>
+               </l>
+               <l>
+                  <hi>Ill-Aſpects,</hi> and worſe <hi>frights</hi> of <hi>bearded Stars;</hi>
+               </l>
+               <l>Rank <hi>Exhalations</hi> from the <hi>Blood</hi> was ſpilt,</l>
+               <l>And <hi>rankor</hi> from <hi>Impiety</hi> and <hi>Guilt:</hi>
+               </l>
+               <l>After all theſe, with thouſand <hi>Cauſes</hi> more,</l>
+               <l>(Foreſeen, though not <hi>prevented,</hi> long before;)</l>
+               <l>The <hi>Air</hi> grown <hi>ſick,</hi> and the <hi>Contagion</hi> high,</l>
+               <l>Poor <hi>Londoners</hi> (not <hi>all</hi> prepar'd to die)</l>
+               <l>Herd after Herd into the <hi>Countrey</hi> throngs,</l>
+               <l>While many force their <hi>way</hi> thorow <hi>Forks</hi> and <hi>Prongs;</hi>
+               </l>
+               <l>Some in wide Fields their <hi>Tabernacle</hi> pitch,</l>
+               <l>And ſome both <hi>Bed</hi> and <hi>Grave</hi> make in a <hi>Ditch;</hi>
+               </l>
+               <l>
+                  <hi>Proviſions</hi> ſet at ſo unkind a <hi>ſpace,</hi>
+               </l>
+               <l>The <hi>ſick man dies,</hi> ere he can <hi>reach</hi> the place:</l>
+               <l>One that had ſeen the <hi>placing</hi> of thoſe <hi>Cates,</hi>
+               </l>
+               <l>Would not have judg'd them to be <hi>food,</hi> but <hi>Baits</hi>
+               </l>
+               <l>Cunningly planted to <hi>deceive,</hi> not <hi>cheriſh:</hi>
+               </l>
+               <l>'Tis ſad by ill plac'd <hi>Charity</hi> to periſh!</l>
+               <l>Nay <hi>Londons Money</hi> muſt not <hi>paſſe,</hi> but there</l>
+               <l>All the <hi>free Bounty</hi> not of <hi>Love,</hi> but <hi>Fear;</hi>
+               </l>
+               <pb n="4" facs="tcp:133232:3"/>
+               <l>The <hi>Plow men</hi> are as jealous of their <hi>Lives,</hi>
+               </l>
+               <l>As ever <hi>Citizens</hi> were of their <hi>Wives!</hi>
+               </l>
+               <l>But leave we <hi>Rural hearts</hi> to Rocks and Stones,</l>
+               <l>And Survey <hi>London</hi>'s Sorrows, Sighs and Moans.</l>
+            </lg>
+            <lg>
+               <l>As when our <hi>Thames</hi> with monſtrous <hi>Ebbe</hi> doth fly,</l>
+               <l>To wider <hi>Straits,</hi> and leaves his <hi>Channel</hi> dry;</l>
+               <l>The great Fiſh with his rapid Streams retire,</l>
+               <l>Leaving the <hi>leſs</hi> and <hi>weaker</hi> to expire</l>
+               <l>Upon the <hi>thirſty</hi> Sands, and <hi>deſolate</hi> Shelves,</l>
+               <l>Loſt, and unable to <hi>Protect</hi> themſelves:</l>
+               <l>The like <hi>deſtructive</hi> and <hi>unequal</hi> Fate,</l>
+               <l>Left <hi>London</hi> Streets too <hi>Wide</hi> and <hi>Deſolate;</hi>
+               </l>
+               <l>Threw out the <hi>Wealthy</hi> int' th' <hi>open Air,</hi>
+               </l>
+               <l>And leaves the <hi>Needy</hi> to Heavens <hi>angry</hi> care!</l>
+            </lg>
+            <lg>
+               <l>Trade <hi>interrupted,</hi> and the <hi>Royal Burſe,</hi>
+               </l>
+               <l>Quitted and Empty as the Cities <hi>Purſe;</hi>
+               </l>
+               <l>While Steeples howling Day and Night, do call</l>
+               <l>Thouſands together to one <hi>Funeral:</hi>
+               </l>
+               <l>Our <hi>Bells,</hi> neither the <hi>Old,</hi> and Conſecrate;</l>
+               <l>Nor the unhallowed <hi>New,</hi> could help our Fate:</l>
+               <l>Not with <hi>perpetual Motion</hi> purge the Sky,</l>
+               <l>Still <hi>mid-night</hi> and <hi>meridian Arrows</hi> fly.</l>
+               <l>Graves <hi>wide</hi> and <hi>deep</hi> Gape like the mouth of <hi>Hell,</hi>
+               </l>
+               <l>In which <hi>whole Lanes</hi> (now <hi>nearer</hi> Neighbours) fell;</l>
+               <l>
+                  <hi>Pits</hi> round the <hi>Church,</hi> caſt like a fatal Line,</l>
+               <l>Threatned the <hi>Sacred Pile</hi> to undermine.</l>
+               <pb n="5" facs="tcp:133232:3"/>
+               <l>Pale Famine feeds upon the <hi>Plague;</hi> The <hi>Poor</hi>
+               </l>
+               <l>All <hi>Searchers</hi> grown, to find a <hi>Rich-man</hi>'s Door;</l>
+               <l>If <hi>One</hi> in a whole Street live here and there,</l>
+               <l>Their <hi>Gates</hi> are ſhut, either by <hi>Peſt</hi> or <hi>fear;</hi>
+               </l>
+               <l>Perhaps ſome <hi>brawny</hi> Uſurer ſtayes behind,</l>
+               <l>Not to the <hi>City,</hi> but his <hi>Avarice,</hi> kind;</l>
+               <l>Who dying 'midſt his <hi>Gold</hi> and <hi>Silver,</hi> ſends</l>
+               <l>His <hi>City-gods</hi> to bleſs his Countrey Friends;</l>
+               <l>Now happily by <hi>Ruſticks</hi> uſ'd ſo well,</l>
+               <l>As if they had Remov'd from <hi>Heaven</hi> to <hi>Hell.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Sometimes when <hi>Charity</hi> her ſelf did meet,</l>
+               <l>A poor afflicted <hi>Creature</hi> in the Street;</l>
+               <l>Though warm'd <hi>Paſsion</hi> and <hi>Preſervatives,</hi>
+               </l>
+               <l>Her trembling <hi>Palme</hi> contracts, and nothing gives;</l>
+               <l>But fearing ſome <hi>infected Hand</hi> or <hi>Breath,</hi>
+               </l>
+               <l>Leaves the <hi>ſtarv'd Soul</hi> to <hi>pity</hi> and to <hi>Death:</hi>
+               </l>
+               <l>Which now grew ſo familiar to the Eye,</l>
+               <l>The preſent wonder was to Live, not Dye.</l>
+            </lg>
+            <lg>
+               <l>The Vault at <hi>Weſtminſter</hi> ſo large and wide;</l>
+               <l>Which every <hi>Term</hi> fill'd with a buſie <hi>Tide</hi>
+               </l>
+               <l>Of lawfull <hi>Adverſaries,</hi> (who, though mov'd</l>
+               <l>With <hi>Wrath</hi> and <hi>Spleen,</hi> walk <hi>cloſe</hi> as if they lov'd)</l>
+               <l>How ſad it looks! How like that <hi>paved Hall,</hi>
+               </l>
+               <l>Which did a <hi>Chriſt,</hi> and <hi>King,</hi> to Iudgement call.</l>
+               <pb n="6" facs="tcp:133232:4"/>
+               <l>Nothing <hi>ſold</hi> here, but <hi>Oxford</hi> and <hi>L'Eſtrange,</hi>
+               </l>
+               <l>
+                  <hi>Two Sheets,</hi> the Cities <hi>Market</hi> and <hi>Exchange:</hi>
+               </l>
+               <l>Perhaps ſome <hi>idle Squire</hi> walks to and fro,</l>
+               <l>Not knowing <hi>what</hi> to do, nor <hi>where</hi> to go;</l>
+               <l>Till his <hi>Dogs Appetite barks,</hi> though in vain,</l>
+               <l>And wiſhes <hi>Arthurs Table</hi> here again.</l>
+            </lg>
+            <lg>
+               <l>The Sacred Fabricks of St. <hi>Pauls,</hi> and <hi>Abby,</hi>
+               </l>
+               <l>Now (Synagogue like) ſerv'd with one <hi>Scribe</hi> and <hi>Rabby:</hi>
+               </l>
+               <l>No <hi>Breath</hi> the <hi>Seats</hi> nor <hi>Organs</hi> to Inſpire,</l>
+               <l>Poor <hi>Robbin Redbreſt</hi> Sings for all the <hi>Quire;</hi>
+               </l>
+               <l>When this <hi>ſad Reformation</hi> firſt was ſeen,</l>
+               <l>I thought Sir <hi>Robert Harlow</hi> had been <hi>Dean;</hi>
+               </l>
+               <l>Who <hi>Broak</hi> and <hi>Melted</hi> all was in his power,</l>
+               <l>But dearly lov'd the <hi>Images</hi> o'th' <hi>Tower.</hi>
+                  <note place="margin">Mr. of the Mint.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet of the <hi>Two,</hi> this of St. <hi>Peters Chair,</hi>
+               </l>
+               <l>Is, if not <hi>Beautiful,</hi> in good <hi>Repair;</hi>
+               </l>
+               <l>When good St. <hi>Paul</hi> hath more of <hi>Faith</hi> then <hi>Works,</hi>
+               </l>
+               <l>Th'Eaſt <hi>Chriſtian,</hi> but the Weſt not fit for <hi>Turks;</hi>
+               </l>
+               <l>Only the <hi>King,</hi> to ſhew 'tis not his <hi>Guilt,</hi>
+               </l>
+               <l>Has <hi>beautified</hi> all his bleſt Father <hi>Built;</hi>
+               </l>
+               <l>
+                  <hi>Pauls</hi> Reformation do's moſt ſadly ſtick,</l>
+               <l>
+                  <hi>Rent</hi> in the <hi>Middle</hi> and turn'd <hi>Schiſmatick;</hi>
+               </l>
+               <l>And now may well <hi>renew</hi> his <hi>juſt Complaint,</hi>
+               </l>
+               <l>He came <hi>too late</hi> to be our <hi>Almanack-Saint:</hi>
+                  <note place="margin">St. <hi>Pauls Day,</hi> till this laſt Convocation, not marked with red Let<g ref="char:EOLhyphen"/>ters.</note>
+               </l>
+               <l>Many I fear could <hi>wiſh</hi> both Temples down;</l>
+               <l>T'enjoy (that <hi>Ador'd</hi> Trinity) in town;</l>
+               <pb n="7" facs="tcp:133232:4"/>
+               <l>
+                  <hi>King, Term,</hi> and <hi>Parliament;</hi> Great <hi>Cryes</hi> are made,</l>
+               <l>Not for St. <hi>Pauls,</hi> but (our <hi>Diana</hi>) Trade.</l>
+            </lg>
+            <lg>
+               <l>Ah! but when <hi>Weſtminſter</hi> or <hi>London</hi> meet,</l>
+               <l>Upon thoſe <hi>Peebles</hi> of the <hi>Royal Street;</hi>
+               </l>
+               <l>(Anenſt that <hi>White tower,</hi> Rais'd by <hi>Scotlands</hi> Iames,
+<note place="margin">Banquetting-houſe.</note>
+               </l>
+               <l>To gain <hi>two Proſpects,</hi> of the <hi>Park</hi> and <hi>Thames</hi>)</l>
+               <l>They weep o're the diſcoloured Stones, and Cry,</l>
+               <l>Here ſprung that <hi>High Blood</hi> firſt inflam'd the Sky:</l>
+               <l>Here was committed <hi>Englands</hi> Capital <hi>Crime,</hi>
+               </l>
+               <l>The <hi>Monſter Plague hatcht</hi> here, but <hi>born</hi> in time.</l>
+            </lg>
+            <lg>
+               <l>O then <hi>bright Sun</hi> o'th' <hi>Britiſh World</hi> appear,</l>
+               <l>To <hi>Influence</hi> Your Native <hi>Hemiſphere:</hi>
+               </l>
+               <l>Whoſe <hi>Preſence</hi> (Light and Heat) all <hi>Good</hi> creates;</l>
+               <l>Whoſe <hi>Abſence</hi> (an Eclipſe) <hi>Depopulates.</hi>
+               </l>
+               <l>Till You with <hi>Oriental beames</hi> Ariſe,</l>
+               <l>Poor <hi>London</hi> faints, peopl'd with Winter flyes;</l>
+               <l>Which with <hi>Conſumptive</hi> Legs and Spirits crawle,</l>
+               <l>To ſeek their <hi>Sun</hi> from <hi>Cheapſide</hi> to <hi>White-hall;</hi>
+               </l>
+               <l>The <hi>Place</hi> bereav'd of your Preſential Care,</l>
+               <l>Muſt ſink: Where you <hi>breath not,</hi> breaths no <hi>good Air:</hi>
+               </l>
+               <l>Of thoſe vaſt Heaps the Sword of <hi>Pest'lence</hi> ſlew,</l>
+               <l>Moſt died o'th' <hi>Peſt,</hi> many for want of <hi>You.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But You are <hi>Come</hi> in Charitable haſt,</l>
+               <l>The <hi>firſt Return'd,</hi> who went away the <hi>laſt;</hi>
+               </l>
+               <l>When <hi>noble Conſtellations</hi> drag by th' way,</l>
+               <l>With many <hi>leſſer Planets</hi> gon a ſtray;</l>
+               <pb n="8" facs="tcp:133232:5"/>
+               <l>Nothing but your <hi>warm Influence</hi> could ope,</l>
+               <l>
+                  <hi>London,</hi> that long cloſ'd dying
+<note n="*" place="margin">Marigold.</note> 
+                  <hi>Heliotrope:</hi>
+               </l>
+               <l>The <hi>City</hi> not with <hi>grief,</hi> but <hi>triumph</hi> pants,</l>
+               <l>Each <hi>Street</hi> as buſie as a Field of <hi>Ants;</hi>
+               </l>
+               <l>Your <hi>Preſence,</hi> Barracado'd <hi>Shops</hi> and <hi>Doors,</hi>
+               </l>
+               <l>Opens as kindly as the <hi>Spring</hi> our <hi>Pores:</hi>
+               </l>
+               <l>
+                  <hi>Bon-fires</hi> Salute You, and the New-tun'd <hi>Bells</hi>
+               </l>
+               <l>Chyme <hi>Pſalms of Ioy,</hi> inſtead of <hi>doleful Knells;</hi>
+               </l>
+               <l>To purge the <hi>Air,</hi> no <hi>Coal-fires</hi> now need burn,</l>
+               <l>
+                  <hi>Magnificats</hi> do that for Your <hi>Return:</hi>
+               </l>
+               <l>Thus <hi>Loyal</hi> LONDON hath a <hi>Ranſome</hi> paid,</l>
+               <l>For that <hi>Defection</hi> the <hi>Diſloyal</hi> made.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Heaven bleſs Your Majeſty, may You Advance,</hi>
+               </l>
+               <l>
+                  <hi>Victorious Enſigns, through the Heart of</hi> France:</l>
+               <l>
+                  <hi>And ſince your</hi> Vice-Roy <hi>has committed</hi> Treaſon,</l>
+               <l>
+                  <hi>Be pleaſ'd</hi> ſans Complement, <hi>to do him</hi> Reaſon:</l>
+               <l>S. George <hi>ſhall go, and play a Game at</hi> Tennis,</l>
+               <l>
+                  <hi>In</hi>
+                  <note n="*" place="margin">VV<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere the <hi>French</hi> was b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>by the <hi>Engliſh.</hi>
+                  </note> Agincourt, <hi>or elſewhere, with</hi> S. Dennis.</l>
+               <l>
+                  <hi>Then over</hi> MONCK, <hi>and make your</hi> Dukedome <hi>good,</hi>
+               </l>
+               <l>
+                  <hi>Seal</hi> Albemarle <hi>once more with</hi> Gallick <hi>Blood;</hi>
+               </l>
+               <l>
+                  <hi>And let the</hi> Proclamation <hi>of proud</hi> Lewis,</l>
+               <l>
+                  <hi>Proclaim Great</hi> CHARLES, <hi>who King of</hi> France <hi>the</hi> true is.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
